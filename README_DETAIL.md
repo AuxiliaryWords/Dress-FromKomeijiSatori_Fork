@@ -1,3 +1,9 @@
+
+Still Working?
+--------------
+No. I forked the original repo just to keep the things from disappearing. No other reasons.
+I might continue working on this "fork", but I'm not sure about this one.
+
 WHY???
 --------------
 In short: We're encouraging more people to learn and understand the ideology of GitHub without coding. 

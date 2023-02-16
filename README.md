@@ -8,6 +8,10 @@
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/komeiji-satori/Dress.svg)
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 
+本仓库为原工程[komeji-satori/Dress](https://github.com/komeiji-satori/Dress)的Fork。
+
+This repository is a fork of the original project [komeiji-staori/Dress](https://github.com/komeiji-satori/Dress).
+
 项目很简单且并不要求你贡献代码，没有编程技能都可以参加。你可以从这里学习从克隆项目，创建分支，提交和同步修改，到合并分支请求的整套流程，一次即可熟悉 Git/GitHub 的使用。 
 
 This simple repository requires no contribution of code, so that you can participate in it without having any coding skills. This project helps you to learn the whole process of cloning a repository, creating a branch, pushing and pulling commits, and making a pull request, thus you can have a good knowledge of Git/GitHub's usage.
@@ -15,6 +19,14 @@ This simple repository requires no contribution of code, so that you can partici
 **当然，你还要事先准备至少一张你的女装照。**
 
 **Of course, you need to prepare a photo of you dressed in women's clothing first.**
+
+### 仍然有效吗？
+### Still working?
+
+不确定，这只是对原本仓库的一个fork而已。我*可能*未来会继续维护，允许其他人提交，但我不确定。
+
+Not sure. It's just a fork of the original repo. I *might* maintain it in the future , allowing others to add more stuff into this one, but I'm not sure.
+
 
 ### 文件夹命名规则和文件标准
 ### File and Folder Naming Rules and Filetype Standards
